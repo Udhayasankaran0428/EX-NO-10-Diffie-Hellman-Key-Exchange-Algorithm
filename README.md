@@ -54,7 +54,6 @@ int main() {
     return 0;
 }
 ```
-
 ## Output:
 <img width="713" height="500" alt="image" src="https://github.com/user-attachments/assets/c3a0126a-a0ed-49d1-99be-e6bfc9891903" />
 
